@@ -1,1 +1,2 @@
-First script
+# First script
+# Added a new line.
