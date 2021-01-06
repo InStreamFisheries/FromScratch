@@ -1,4 +1,4 @@
-Package: IFRthemes
+Package: FromScratch
 Title: Functions to apply custom IFR ggplot2 themes
 Version: 0.0.0.9000
 Authors@R: 
@@ -11,8 +11,8 @@ Imports:
     scales,
     ggplot2,
     dplyr
-URL: https://github.com/InStreamFisheries/IFRthemes
-BugReports: https://github.com/InStreamFisheries/IFRthemes/issues
+URL: https://github.com/InStreamFisheries/FromScratch
+BugReports: https://github.com/InStreamFisheries/FromScratch/issues
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
